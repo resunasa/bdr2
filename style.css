@@ -6,7 +6,7 @@ body{
 	align-items: center;
 	min-height: 100vh;
 	font-family: 'Jost', sans-serif;
-background: url("7.jpg") no-repeat center/ cover;
+        background: #ffdfba;
 }
 .main{
 	width: 350px;
